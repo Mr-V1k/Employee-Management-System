@@ -1,5 +1,4 @@
 # Employee-Management-System
-***
 
 ## Employee Profile API
 ***
@@ -43,7 +42,6 @@
 * Throws: Employee Not Found Exception
 
 ## Employee Timesheet API
-***
 Timesheet API has suffix `api/timesheet`.
 ### Create a new Timesheet for the Employee
 ***
