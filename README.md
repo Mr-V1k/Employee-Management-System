@@ -1,8 +1,10 @@
 # Employee-Management-System
 ***
+
 ## Employee Profile API
 ***
 * Employee Profile API has endpoints with suffix `api/employee-profile`.
+
 ### Create Employee
 ***
 * Endpoint: `create`
@@ -42,6 +44,7 @@
 
 ## Employee Timesheet API
 ***
+Timesheet API has suffix `api/timesheet`.
 ### Create a new Timesheet for the Employee
 ***
 * Endpoint: `create/{employeeId}`
